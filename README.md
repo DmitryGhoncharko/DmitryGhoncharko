@@ -98,7 +98,7 @@ Java Backend Разработчик с более 3ех лет коммерче�
 *   `Java/Kotlin/Python/JS/React/Groovy/COBOL`
 *   `MySQL, PostgreSQL, MongoDB, Pangolin, Flyway, Liquibase`
 *   `Apache tomcat, Junit, Mockito`
-*   `Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud, Spring AI, Spring Security, Spring AOP`
+*   `Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud, Spring AI, Spring Security, Spring AOP, Spring Reactive`
 *   `Jenkins, Docker`
 *   `Maven, Gradle, Ant`
 *   `BPMN`
