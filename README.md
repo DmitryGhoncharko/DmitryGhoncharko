@@ -1,6 +1,6 @@
 ## Дмитрий Гончарко 👋
 Java Backend Разработчик с более 3ех лет коммерческого опыта.
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryGhocnharko&theme=default)
 
 <p align='center'>
    📫 Связь со мной: <a href='mailto:dafae722@gmail.com'>dafae722@gmail.com</a>
