@@ -1,12 +1,6 @@
 ## Дмитрий Гончарко 👋
 Java Backend Разработчик с более 3ех лет коммерческого опыта.
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=DmitryGhoncharko&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=DmitryGhoncharko&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/DmitryGhoncharko/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryGhoncharko&layout=compact"/></a>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
 
 <p align='center'>
    📫 Связь со мной: <a href='mailto:dafae722@gmail.com'>dafae722@gmail.com</a>
